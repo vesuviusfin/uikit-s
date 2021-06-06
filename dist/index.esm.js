@@ -1973,7 +1973,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     MoreIcon: Icon$R,
     NftIcon: Icon$S,
     PoolIcon: Icon$T,
-    VfarIcon: VfatIcon,
+    VfatIcon: VfatIcon,
     
     SunIcon: Icon$U,
     TelegramIcon: Icon$V,
