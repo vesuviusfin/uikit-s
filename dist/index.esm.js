@@ -1953,6 +1953,11 @@ var Icon$10 = function (props) {
             React.createElement("path", { d: "M291.195,210.11c0-70.35-57.233-127.584-127.583-127.584C93.263,82.526,36.03,139.76,36.03,210.11\r\n\t\t\tc0,20.615,4.921,40.1,13.64,57.353l113.942,234.973l113.96-235.01C286.28,250.182,291.195,230.709,291.195,210.11z\r\n\t\t\t M163.612,280.711c-38.931,0-70.604-31.671-70.604-70.602c0-38.932,31.674-70.605,70.604-70.605s70.604,31.674,70.604,70.605\r\n\t\t\tC234.215,249.04,202.542,280.711,163.612,280.711z" }))));
 };
 
+var VfatIcon = function (props) {
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 32 32" }, props),
+        React.createElement("image", { width: "32", height: "32", href: "/images/skunk/vfat.png" })));
+};
+
 var IconModule = /*#__PURE__*/Object.freeze({
     __proto__: null,
     FarmIcon: Icon$I,
@@ -1968,6 +1973,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     MoreIcon: Icon$R,
     NftIcon: Icon$S,
     PoolIcon: Icon$T,
+    VfarIcon: VfatIcon,
     
     SunIcon: Icon$U,
     TelegramIcon: Icon$V,
