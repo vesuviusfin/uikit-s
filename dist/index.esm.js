@@ -2139,7 +2139,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/SkunkSwap",
+        href: "https://t.me/SkunkSwapFinance",
         // items: [
         //    {
         //        label: "English",
@@ -2198,7 +2198,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SkunkSwap",
+        href: "https://twitter.com/SkunkSwapFinance",
     },
 ];
 var MENU_HEIGHT = 64;
